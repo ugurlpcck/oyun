@@ -1,0 +1,12 @@
+Office/Garage Unity Play Mode validation
+PASS: complete original van, 227 exterior mesh ray samples across both cargo walls, roof and loading doors; outward faces, opaque glass/body, original lamps/latches, no mirrored body overlays
+PASS: baked room reflections, production lighting/AA, centered carry grip, wall-safe drops, collision filtering, eased doors with player clearance, W movement/release without drift, audio removed
+PASS: both doors opened with E and crossed with W in both directions, swing away from player, thin leaf collision, hardware attachment, capsule-safe closing, equipment-safe opening/resume, rapid toggle recovery; garage PBR floor and four fixture-aligned work lights
+PASS: sixteen cabinet trays open/close, player and loose equipment block opening safely, motion resumes when clear, handle interaction ray, rapid toggle recovery, drawer audio removed
+PASS: compact HUD reflects actual module/cargo/maintenance and held condition; real Escape pauses/resumes time, input and audio, W stays still while paused; pointer volume slider, saved mouse/sway options, pause save readback, computer exclusion and pause cleanup
+PASS: real E vehicle doors including 180-degree rear leaves and attached rear module; real W route around open rear doors and up/down cargo steps; lift, rear carrier/step clearance and player-safe lowering/resume; audio removed, FPS/ms and static batching verified
+PASS: seven grouped desktop launchers, work-order navigation and contract checkbox, clamped dragging, double-click maximize/restore, taskbar minimize/restore, close/save/exit, black monitor and human avatar scale
+PASS: five distinct source-model module mechanisms, combined physical skid/brackets, visible bolt turning/cancellation, connected/parked service cable, wall-safe labels and stable roof signal identity
+PASS: rear exterior module delivery, real E/F pickup/drop/staging with carrier door closed, hold-E fasteners/cancellation, connector interlock, manual removal/refitting and partial save/load; module outside the rear body; real E rear cargo load/unload and door clearance
+PASS: original van position and garage lift, scene references, computer, reputation job lock/unlock, module, cargo, preparation, result, itemized report, optional contract failure/success, scheduled safety inspection reward/fine, economy, equipment and vehicle repair, order, delivery, upgrade, save/load
+Validation complete.
