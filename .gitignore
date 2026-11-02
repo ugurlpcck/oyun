@@ -21,3 +21,8 @@
 *.tmp
 sysinfo.txt
 crashlytics-buildid.txt
+
+# Python caches and Blender automatic backups (editable .blend sources are tracked)
+__pycache__/
+*.py[cod]
+*.blend[1-9]
